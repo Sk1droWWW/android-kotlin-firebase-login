@@ -1,10 +1,6 @@
-Implementing Login on Android with FirebaseUI
-=========================
+# Implementing Login on Android with FirebaseUI
 
-This repository contains the final code for the Login Codelab.
-
-License
--------
+## License
 
 Copyright 2019 Google, Inc.
 
